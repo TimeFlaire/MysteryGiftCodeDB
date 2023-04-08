@@ -3,7 +3,7 @@
 "PokemonName":"RedPuffle",
 "Nature":"Timid",
 "Nickname":"ALPHA",
-"Pokeball":"Golden Berry",
+"Pokeball":"Pokeball",
 "Level":30,
 "Gender":"Random",
 "Shiny":true,
