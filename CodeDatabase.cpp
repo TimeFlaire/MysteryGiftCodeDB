@@ -1,4 +1,4 @@
-"ALPHA":
+{"ALPHA":
 {"Moves":["Fusion Flare","Blue Flare","Recover","Flamethrower],
 "PokemonName":"Red Puffle",
 "Nature":"Timid",
