@@ -30,6 +30,22 @@
 "BadgeLock":3,
 "Allowed":true
 },
+"DESOLATION":
+{"Moves":["Dragon Claw","Slam","Recover","Dragon Pulse"],
+"PokemonName":"Ornitherb",
+"Nature":"Timid",
+"Nickname":"DESOLE",
+"Pokeball":"Divine Berry",
+"Level":40,
+"Gender":"Random",
+"Shiny":false,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"minex",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":3,
+"Allowed":true
+},
 "CuteFox":
 {"Moves":["Scratch"],
 "PokemonName":"Fennekin",
