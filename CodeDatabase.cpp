@@ -31,7 +31,7 @@
 "Allowed":true
 },
 "DESOLATION":
-{"Moves":["Dragon Claw","Slam","Recover","Dragon Pulse"],
+{"Moves":["Solar Beam","Flamethrower","Recover","Dragon Pulse"],
 "PokemonName":"Ornitherb",
 "Nature":"Timid",
 "Nickname":"DESOLE",
