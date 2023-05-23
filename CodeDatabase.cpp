@@ -12,7 +12,7 @@
 "OT":"minex",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":2,
-"Allowed":true
+"Allowed":false
 },
 "CRANEVIEW":
 {"Moves":["Dragon Claw","Slam","Recover","Dragon Pulse"],
