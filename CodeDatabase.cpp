@@ -1,4 +1,21 @@
-{"ALPHA":
+{
+"FREENOM":
+{"Moves":["Confusion","Sing","Double Team","Wing Attack"],
+"PokemonName":"Eshouten",
+"Nature":"Quirky",
+"Nickname":"Freenom",
+"Pokeball":"Divine Berry",
+"Level":35,
+"Gender":"Female",
+"Shiny":true,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"minex",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":2,
+"Allowed":true
+},
+"ALPHA":
 {"Moves":["Fusion Flare","Blue Flare","Recover","Flamethrower"],
 "PokemonName":"Red Puffle",
 "Nature":"Timid",
