@@ -1,4 +1,20 @@
 {
+"LEGACY":
+{"Moves":["Aqua Tail","Slam","Hydro Pump","Crunch"],
+"PokemonName":"Barracute",
+"Nature":"Modest",
+"Nickname":"Cute",
+"Pokeball":"Divine Berry",
+"Level":40,
+"Gender":"Female",
+"Shiny":true,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"angell12345678X",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":2,
+"Allowed":true
+},
 "SUMMER VIBES":
 {"Moves":["Dragon Breath","Venoshock","Double Team","Amnesia"],
 "PokemonName":"Glauqua",
@@ -13,7 +29,7 @@
 "OT":"minex",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":2,
-"Allowed":true
+"Allowed":false
 },
 "FREENOM":
 {"Moves":["Confusion","Sing","Double Team","Wing Attack"],
