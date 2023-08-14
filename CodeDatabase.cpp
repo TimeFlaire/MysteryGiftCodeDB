@@ -13,7 +13,7 @@
 "OT":"angell12345678X",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":2,
-"Allowed":true
+"Allowed":false
 },
 "SUMMER VIBES":
 {"Moves":["Dragon Breath","Venoshock","Double Team","Amnesia"],
