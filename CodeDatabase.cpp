@@ -5,7 +5,7 @@
 "Nature":"Modest",
 "Nickname":"ilysm Alice",
 "Pokeball":"Divine Berry",
-"Level":120,
+"Level":150,
 "Gender":"Female",
 "Shiny":true,
 "TL":true,
