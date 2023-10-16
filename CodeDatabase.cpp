@@ -13,7 +13,7 @@
 "OT":"The Queen herself, Alice_xo94",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":8,
-"Allowed":false
+"Allowed":true
 },
 "SUMMER VIBES":
 {"Moves":["Dragon Breath","Venoshock","Double Team","Amnesia"],
