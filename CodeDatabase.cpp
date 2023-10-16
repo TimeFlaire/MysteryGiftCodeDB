@@ -1,5 +1,5 @@
 {
-"ALICE <3":
+"I LUV ALICE <3":
 {"Moves":["Water Shuriken","Wrath of Fate","Double Team","Ultra Recover"],
 "PokemonName":"Brainoar",
 "Nature":"Modest",
