@@ -1,5 +1,5 @@
 {
-"Iluvalice123":
+"ILUVALICE123":
 {"Moves":["Water Shuriken","Wrath of Fate","Double Team","Ultra Recover"],
 "PokemonName":"Brainoar",
 "Nature":"Modest",
