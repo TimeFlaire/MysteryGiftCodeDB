@@ -1,21 +1,4 @@
 {
-"ILUVALICE123":
-{"Moves":["Water Shuriken","Wrath of Fate","Double Team","Ultra Recover"],
-"PokemonName":"Brainoar",
-"Nature":"Modest",
-"Nickname":"ilysm Alice",
-"Pokeball":"Divine Berry",
-"Level":150,
-"Gender":"Female",
-"Shiny":true,
-"TL":true,
-"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
-"OT":"The Queen herself, Alice_xo94",
-"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
-"BadgeLock":8,
-"Allowed":false
-},
-  {
 "CHRISTMAS2023":
 {"Moves":["Emulate","Recover"],
 "PokemonName":"Duplicat",
