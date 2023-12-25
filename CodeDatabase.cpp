@@ -15,6 +15,23 @@
 "BadgeLock":8,
 "Allowed":false
 },
+  {
+"CHRISTMAS2023":
+{"Moves":["Emulate","Recover"],
+"PokemonName":"Duplicat",
+"Nature":"Modest",
+"Nickname":"X-MAS 2023",
+"Pokeball":"Divine Berry",
+"Level":45,
+"Gender":"Female",
+"Shiny":true,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"Santa's cat",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":3,
+"Allowed":true
+},
 "SUMMER VIBES":
 {"Moves":["Dragon Breath","Venoshock","Double Team","Amnesia"],
 "PokemonName":"Glauqua",
