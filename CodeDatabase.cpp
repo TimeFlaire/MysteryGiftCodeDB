@@ -16,7 +16,6 @@
 "Allowed":true
 },
 
-{
 "23RDBIRTHDAY":
 {"Moves":["Meteor Tomb","Recover","Hypnosis","Aqua Tail"],
 "PokemonName":"Xotec",
@@ -33,7 +32,6 @@
 "BadgeLock":2,
 "Allowed":true
 },
-{
 "CHRISTMAS2023":
 {"Moves":["Emulate","Recover"],
 "PokemonName":"Duplicat",
