@@ -13,7 +13,7 @@
 "OT":"Happy 25th Birthday, Irene!",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":5,
-"Allowed":true
+"Allowed":false
 },
 
 "23RDBIRTHDAY":
@@ -30,7 +30,7 @@
 "OT":"Happy 23rd birthday, Elena!",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
 "BadgeLock":2,
-"Allowed":true
+"Allowed":false
 },
 "CHRISTMAS2023":
 {"Moves":["Emulate","Recover"],
