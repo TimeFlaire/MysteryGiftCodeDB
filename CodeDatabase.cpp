@@ -17,7 +17,7 @@
 },
 
 {
-"23RDBURTGDAY":
+"23RDBIRTHDAY":
 {"Moves":["Meteor Tomb","Recover","Hypnosis","Aqua Tail"],
 "PokemonName":"Xotec",
 "Nature":"Modest",
