@@ -1,4 +1,39 @@
 {
+"25THBIRTHDAY":
+{"Moves":["Earth Power","Recover","Power Gem","Psychic"],
+"PokemonName":"Xochi",
+"Nature":"Modest",
+"Nickname":"Irene",
+"Pokeball":"Divine Berry",
+"Level":45,
+"Gender":"Female",
+"Shiny":true,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"Happy 25th Birthday, Irene!",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":5,
+"Allowed":true
+},
+
+{
+"23RDBURTGDAY":
+{"Moves":["Meteor Tomb","Recover","Hypnosis","Aqua Tail"],
+"PokemonName":"Xotec",
+"Nature":"Modest",
+"Nickname":"Elena",
+"Pokeball":"Divine Berry",
+"Level":25,
+"Gender":"Female",
+"Shiny":true,
+"TL":true,
+"IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"OT":"Happy 23rd birthday, Elena!",
+"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
+"BadgeLock":2,
+"Allowed":true
+},
+{
 "CHRISTMAS2023":
 {"Moves":["Emulate","Recover"],
 "PokemonName":"Duplicat",
