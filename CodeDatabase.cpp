@@ -1,18 +1,18 @@
 {
-"25THBIRTHDAY":
-{"Moves":["Earth Power","Recover","Power Gem","Psychic"],
-"PokemonName":"Xochi",
+"ILYSTARX":
+{"Moves":["Leaf Shield","Leaf Blade","Zen Headbutt","Agility"],
+"PokemonName":"Chlorofin",
 "Nature":"Modest",
-"Nickname":"Irene",
+"Nickname":"My Star",
 "Pokeball":"Divine Berry",
-"Level":45,
+"Level":30,
 "Gender":"Female",
 "Shiny":true,
 "TL":true,
 "IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
-"OT":"Happy 25th Birthday, Irene!",
+"OT":"Happy Birthday Star <3!",
 "EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
-"BadgeLock":5,
+"BadgeLock":2,
 "Allowed":false
 },
 
