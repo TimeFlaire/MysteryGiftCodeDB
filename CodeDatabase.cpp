@@ -1,19 +1,19 @@
 {
-"ILYSTARX":
-{"Moves":["Leaf Shield","Leaf Blade","Zen Headbutt","Agility"],
-"PokemonName":"Chlorofin",
+"TERMINAL":
+{"Moves":["Splash","Double Team","Wrath of Fate","Ultra Recover"],
+"PokemonName":"Eshouten",
 "Nature":"Modest",
-"Nickname":"My Star",
+"Nickname":"Unlisted Mummy",
 "Pokeball":"Divine Berry",
-"Level":30,
+"Level":67,
 "Gender":"Female",
 "Shiny":true,
 "TL":true,
 "IVs":{"SpA":31,"HP":31,"Speed":31,"SpD":31,"Def":31,"Atk":31},
-"OT":"Happy Birthday Star <3!",
-"EVs":{"SpA":16,"HP":16,"Speed":16,"SpD":16,"Def":16,"Atk":16},
-"BadgeLock":2,
-"Allowed":false
+"OT":"What? You thought you'd get something good?",
+"EVs":{"SpA":64,"HP":64,"Speed":31,"SpD":31,"Def":31,"Atk":31},
+"BadgeLock":8,
+"Allowed":true
 },
 
 "23RDBIRTHDAY":
