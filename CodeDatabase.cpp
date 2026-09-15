@@ -13,7 +13,7 @@
 "OT":"What? You thought you'd get something good?",
 "EVs":{"SpA":64,"HP":64,"Speed":31,"SpD":31,"Def":31,"Atk":31},
 "BadgeLock":8,
-"Allowed":true
+"Allowed":false
 },
 
 "23RDBIRTHDAY":
